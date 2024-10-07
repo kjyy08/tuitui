@@ -27,8 +27,8 @@
 > ### Git 주소
 > * Frontend
 > * Backend\
-     >    [API Repository]()\
-     >    [Chat Repository]()
+     >    [API Repository](https://github.com/kjyy08/tuitui_backend.git)\
+     >    [Chat Repository - 개발 중]()
 
 ## 🙋팀원
 <div align="center">
