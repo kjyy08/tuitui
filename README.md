@@ -90,6 +90,8 @@
 ![AWS Route53](https://img.shields.io/badge/AWS_Route53-8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### API Documentation & Test
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 # 🔎ERD 구조
 ![ERD](https://github.com/user-attachments/assets/a96130a4-87fa-47b9-8b81-069e260a4d40)
