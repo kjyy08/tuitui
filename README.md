@@ -28,7 +28,7 @@
 > * Frontend\
 >    [Client Repository](https://github.com/swuProject/main)
 > * Backend\
->    [API Repository](https://github.com/kjyy08/tuitui_backend.git)\
+>    [API Repository](https://github.com/kjyy08/tuitui_backend.git)
 
 ## 🙋팀원
 <div align="center">
