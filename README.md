@@ -86,14 +86,12 @@
 
 ### 간단한 피그마 디자인 모음
 > ### 홈 & 글 작성 화면
-> <div style="display: flex; justify-content: center;">
->   <figure style="margin: 10px; text-align: center;">
->     <img src="https://github.com/user-attachments/assets/5e6469c9-ee74-4d93-bc85-5ed31cc8bedb" alt="홈 화면" width="300">
->     <figcaption>홈 화면</figcaption>
+> <div style="display: flex; justify-content: space-around;">
+>   <figure style="text-align: center;">
+>     <img src="https://github.com/user-attachments/assets/5e6469c9-ee74-4d93-bc85-5ed31cc8bedb" alt="홈 화면">
 >   </figure>
->   <figure style="margin: 10px; text-align: center;">
->     <img src="https://github.com/user-attachments/assets/55b0decd-26e6-40fe-bffa-0eb5d3bc1b81" alt="글 작성" width="300">
->     <figcaption>글 작성</figcaption>
+>   <figure style="text-align: center;">
+>     <img src="https://github.com/user-attachments/assets/55b0decd-26e6-40fe-bffa-0eb5d3bc1b81" alt="글 작성">
 >   </figure>
 > </div>
 
@@ -101,11 +99,9 @@
 > <div style="display: flex; justify-content: space-around;">
 >   <figure style="text-align: center;">
 >     <img src="https://github.com/user-attachments/assets/c03d58f2-98ae-4476-9296-ed8aabafc541" alt="지도 캡슐 조회">
->     <figcaption>지도 캡슐 조회</figcaption>
 >   </figure>
 >   <figure style="text-align: center;">
 >     <img src="https://github.com/user-attachments/assets/3ef30eb8-7d4e-488a-b8c2-8fec93b70020" alt="채팅">
->     <figcaption>채팅</figcaption>
 >   </figure>
 > </div>
 
@@ -113,7 +109,6 @@
 > <div style="display: flex; justify-content: center;">
 >   <figure style="text-align: center;">
 >     <img src="https://github.com/user-attachments/assets/273f2ba0-5d1c-40a2-9bd5-0544a6019e3c" alt="AR">
->     <figcaption>AR</figcaption>
 >   </figure>
 > </div>
 
