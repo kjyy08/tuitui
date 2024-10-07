@@ -70,7 +70,7 @@
     </table>
 </div>
 
-# 기술 스택
+# 💻기술 스택
 ### Frontend
 ![React](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
