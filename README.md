@@ -29,7 +29,6 @@
 >    [Client Repository](https://github.com/swuProject/main)
 > * Backend\
 >    [API Repository](https://github.com/kjyy08/tuitui_backend.git)\
->    [Chat Repository - 개발 중]()
 
 ## 🙋팀원
 <div align="center">
