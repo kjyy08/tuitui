@@ -89,11 +89,11 @@
 > <div style="display: flex; justify-content: space-around;">
 >   <figure style="text-align: center;">
 >     <img src="https://github.com/user-attachments/assets/5e6469c9-ee74-4d93-bc85-5ed31cc8bedb" alt="홈 화면">
->     <figcaption><br>홈 화면</figcaption>
+>     <figcaption>홈 화면</figcaption>
 >   </figure>
 >   <figure style="text-align: center;">
 >     <img src="https://github.com/user-attachments/assets/55b0decd-26e6-40fe-bffa-0eb5d3bc1b81" alt="글 작성">
->     <figcaption><br>글 작성</figcaption>
+>     <figcaption>글 작성</figcaption>
 >   </figure>
 > </div>
 
