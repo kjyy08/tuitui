@@ -2,10 +2,8 @@
 
 > 1. [프로젝트 소개](#프로젝트-소개)
 > 2. [기술 스택](#기술-스택)
-> 3. [ERD 구조](#erd-구조)
-> 4. [백엔드 아키텍처](#백엔드-아키텍처)
-> 5. [주요 기능](#주요-기능)
-> 6. [API 명세](#API-명세)
+> 3. [주요 기능](#주요-기능)
+> 4. [API 명세](#API-명세)
 
 
 # 🏠프로젝트 소개
@@ -92,12 +90,6 @@
 
 ### API Documentation & Test
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-# 🔎ERD 구조
-![ERD](https://github.com/user-attachments/assets/a96130a4-87fa-47b9-8b81-069e260a4d40)
-
-# ⚙️백엔드 아키텍처
-![아키텍처](https://github.com/user-attachments/assets/0eba517e-9458-4f7f-90df-8d44ce05d412)
 
 # 🔦주요 기능
 |      기능      | 설명                                                                                                                                  |
